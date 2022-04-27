@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/pycrs_" target="blank"><img src="https://img.shields.io/twitter/follow/pzdrs?logo=twitter&style=for-the-badge" alt="pzdrs" /></a> </p>
 
-- 🔭 I’m currently working on **remeslovkostce-django**
+- 🔭 I’m currently working on **hraju hry**
 
-- 🌱 I’m currently learning **django/python**
+- 🌱 I’m currently learning **ak spray in rust**
 
 - 👨‍💻 All of my projects are available at [github, obviously]
 
