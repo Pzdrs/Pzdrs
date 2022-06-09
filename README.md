@@ -1,4 +1,4 @@
-<h1 align="center">sample text</h1>
+<h1 align="center">pycrsuv hella pimped out github profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzdrs&label=Profile%20views&color=0e75b6&style=flat" alt="pzdrs" /> </p>
 
